@@ -1,12 +1,15 @@
-## Hi there 👋
+# CreamCode
 
-<!--
+## ¿Quiénes somos?
+Somos una organización dedicada a [descripción breve]. Nuestro objetivo es [objetivo principal].
 
-**Here are some ideas to get you started:**
+## Proyectos destacados
+- [Proyecto 1](https://github.com/organizacion/proyecto1): Breve descripción.
+- [Proyecto 2](https://github.com/organizacion/proyecto2): Breve descripción.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contacto
+- 🌐 [Sitio web oficial](https://tusitio.com)
+- 📧 [Correo electrónico](mailto:contacto@tusitio.com)
+- 🐦 [Twitter](https://twitter.com/tuusuario)
+
+![Logo](https://tusitio.com/logo.png)
