@@ -1,4 +1,5 @@
-<h1 align="center">CreamsCode</h1>
+<h1 align="center">🍦CreamsCode - Pure Coding, pure Crema🍦</h1>
+
 
 ![DALL·E 2024-12-27 12 39 54 - A vector logo in Japanese style featuring an open honey jar-like cream pot with a bit of cream spilling out, and 'LOS CREMAS' written in kanji-inspire (1)](https://github.com/user-attachments/assets/84870acf-be00-4166-b01a-ee89beb0bf24)
 
